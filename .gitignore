@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+checkpoints/*
+saved_model/*
+mobilenet.mlmodel
+*.h5
